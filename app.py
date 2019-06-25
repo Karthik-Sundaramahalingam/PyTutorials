@@ -109,3 +109,16 @@ counter = 1
 while counter <= 10:
     print(f"The While Loop value is: {counter}")
     counter = counter + 1
+
+# Star Loop
+
+star_counter = 0
+
+while star_counter <= 5:
+    print('*' * star_counter)
+    star_counter = star_counter + 1
+else:
+    while star_counter > 0:
+        print('*' * star_counter)
+        star_counter = star_counter - 1
+
