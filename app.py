@@ -109,3 +109,31 @@ counter = 1
 while counter <= 10:
     print(f"The While Loop value is: {counter}")
     counter = counter + 1
+
+# Star Loop
+
+star_counter = 0
+
+while star_counter <= 5:
+    print('*' * star_counter)
+    star_counter = star_counter + 1
+else:
+    while star_counter > 0:
+        print('*' * star_counter)
+        star_counter = star_counter - 1
+
+# Print Letter F
+
+numbers = [5, 2, 5, 2, 2]
+
+for k in numbers:
+    print('X' * k)
+
+print()
+print('------------------------------------')
+
+for num in numbers:
+    result = ''
+    for i in range(num):
+        result += 'X'
+    print(result)
