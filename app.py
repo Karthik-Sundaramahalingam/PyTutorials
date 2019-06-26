@@ -122,3 +122,18 @@ else:
         print('*' * star_counter)
         star_counter = star_counter - 1
 
+# Print Letter F
+
+numbers = [5, 2, 5, 2, 2]
+
+for k in numbers:
+    print('X' * k)
+
+print()
+print('------------------------------------')
+
+for num in numbers:
+    result = ''
+    for i in range(num):
+        result += 'X'
+    print(result)
