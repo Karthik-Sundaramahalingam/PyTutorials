@@ -137,3 +137,13 @@ for num in numbers:
     for i in range(num):
         result += 'X'
     print(result)
+
+st_numbers = [1, 2, 3, 4, 5, 6, 7, 8]
+
+for sn in st_numbers:
+    print('X' * sn)
+
+print(st_numbers[2:])
+print(st_numbers[-3])
+
+
