@@ -138,12 +138,34 @@ for num in numbers:
         result += 'X'
     print(result)
 
+# Lists
 st_numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 
 for sn in st_numbers:
     print('X' * sn)
 
+print(st_numbers)
 print(st_numbers[2:])
 print(st_numbers[-3])
+print(st_numbers[4:7])
+
+largest_numbers = [3, 8, 6, 4, 10]
+max_num = largest_numbers[0]
+
+for mn in largest_numbers:
+    if max_num < mn:
+        max_num = mn
+print(max_num)
+
+# 2D Lists
+
+matrix = [
+            [2, 5, 8],
+            [1, 4, 7],
+            [3, 6, 9]
+         ]
+
+print(matrix[1][0])
+
 
 
