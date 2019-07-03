@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="143" column="19" lean-forward="true" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="19" />
+            <state relative-caret-position="317">
+              <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -44,23 +44,11 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PyTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -119,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561473628966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="List Indices Examples">
+      <created>1562004911923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562004911923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -139,7 +134,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3273906" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3273906" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32686085" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3241491" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -147,13 +142,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Printing Stars using While Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Printing Stars using While Loop" />
+    <MESSAGE value="List Indices Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="List Indices Examples" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="143" column="19" lean-forward="true" selection-start-line="143" selection-start-column="19" selection-end-line="143" selection-end-column="19" />
+        <state relative-caret-position="317">
+          <caret line="178" column="4" selection-start-line="178" selection-start-column="4" selection-end-line="178" selection-end-column="4" />
         </state>
       </provider>
     </entry>

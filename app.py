@@ -167,5 +167,18 @@ matrix = [
 
 print(matrix[1][0])
 
+# Function
 
 
+def display():
+    """Just prints Hello Python"""
+    print('Hello Python')
+
+
+def employee(empname):
+    """A function with an argument"""
+    print(f'The name of the employee:{empname}')
+
+
+display()
+employee('Marvel')
