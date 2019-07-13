@@ -17,3 +17,12 @@ names.sort()
 print(names)
 names.sort(reverse=True)
 print(names)
+
+del names[2]
+print(names)
+
+names.pop(1)
+print(names)
+
+names.remove('facebook')
+print(names)
