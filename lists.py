@@ -50,8 +50,26 @@ print(numbers)
 numbers.sort()
 print(f'After Sorting: {numbers}')
 
+
 alphabets = ['B', 'D', 'A', 'C']
 print(alphabets)
 print('Temporarily Sorting using Sorted function')
 print(sorted(alphabets))
 print(f'Again back to Original List: {alphabets}')
+
+print('Printing the list in reverse order')
+alphabets.reverse()
+print(alphabets)
+
+
+print('To find the length of the list')
+print(f'The length of the list alphabets is: {len(alphabets)}')
+
+
+# Working with the lists
+# Looping through the list
+
+riders = [4, 9, 12, 19, 20, 21, 26, 30, 35, 36, 41, 42, 46, 88, 93, 99]
+
+for rider in riders:
+    print(f'The rider number is: {rider}')
