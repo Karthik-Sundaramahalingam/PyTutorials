@@ -73,3 +73,25 @@ riders = [4, 9, 12, 19, 20, 21, 26, 30, 35, 36, 41, 42, 46, 88, 93, 99]
 
 for rider in riders:
     print(f'The rider number is: {rider}')
+
+calendars = ['Qatar', 'Thailand', 'COTA', 'Aragon']
+for cal in calendars:
+    print(f'The race calendar circuit: {cal.title()}')
+
+worldChampions = ['rossi','lorenzo','marc']
+for wc in worldChampions:
+    print(f'The World Champion is: {wc.title()}')
+print('End of statements')
+
+for i in range(1, 11):
+    print(f'The Range value is: {i}')
+print('End of range() function')
+
+for i in range(1, 15, 2):
+    print(f'The Range value is: {i}')
+print('End of range() function')
+
+nums = list(range(1, 5))
+for i in nums:
+    print(f'The Range value is: {i}')
+print('End of range() function')
