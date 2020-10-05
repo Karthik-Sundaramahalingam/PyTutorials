@@ -101,7 +101,7 @@ for j in range(1, 11):
     squares.append(j ** 2)
 print(squares)
 
-digits = [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+digits = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 print(f'The Minimum value: {min(digits)}')
 print(f'The Maximum value: {max(digits)}')
 print(f'The Sum of values: {sum(digits)}')

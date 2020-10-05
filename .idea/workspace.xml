@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569345435099</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Working with Lists - Static Lists">
+      <created>1579753372874</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579753372874</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,12 +160,25 @@
     <MESSAGE value="Basics and Lists" />
     <MESSAGE value="Lists functions" />
     <MESSAGE value="Working with Lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working with Lists" />
+    <MESSAGE value="Working with Lists - Static Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Lists - Static Lists" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585410921124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585410921124" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1579753368586">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1579753368586" />
     <state x="277" y="61" key="SettingsEditor" timestamp="1579719593059">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579719593059" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1579753378654">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1579753378654" />
   </component>
 </project>
